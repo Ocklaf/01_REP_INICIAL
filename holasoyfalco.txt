@@ -7,3 +7,5 @@ Saludos.
 Primer cambio desde el WorkSpace.
 
 Cambiado desde la web GitHub!
+
+Segundo cambio desde el PC (Local - WorkSpace)
